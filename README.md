@@ -1,1 +1,2 @@
-Kalau mau diliat isinya harus didownload dulu, kalo engga tulisannya invalid notebook
+Kalau mau diliat isinya harus didownload dulu berlaku yang invalid notebook soalnya ada screenshot
+
