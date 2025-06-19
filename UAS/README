@@ -58,5 +58,5 @@ Notebook ini membangun dan melatih model CNN untuk mengklasifikasikan berbagai j
 
 ## 📌 Catatan Tambahan
 - Notebook ini menggunakan `scikit-learn`, `TensorFlow`, dan `PyTorch`.
-- Beberapa kode membutuhkan dataset eksternal (`FishImgDataset`,"KlasifikasiUTS") — pastikan struktur folder sesuai dengan `base_dir` pada notebook.
+- Beberapa kode membutuhkan dataset eksternal (`FishImgDataset`, "KlasifikasiUTS") — pastikan struktur folder sesuai dengan `base_dir` pada notebook.
 - Direkomendasikan untuk menggunakan GPU untuk training CNN.
